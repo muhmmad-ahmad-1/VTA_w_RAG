@@ -1,0 +1,9 @@
+About the Raw Documents:
+
+The pdf files are accessed from 2 main sources
+
+1) MIT Open Courseware Introduction To C++ Lecture Notes (January IAP 2011 | Undergraduate) | INSTRUCTORS: Jesse Dunietz Geza Kovacs John Marrero
+
+2) Beginning C++ Programming | Richard Grimes | 2017 Packt Publishing
+
+All credits belong to its rightful owner. We use these resources only for educational purposes and not for any deployment of this retriever at scale due to lack of consent from the owners.
